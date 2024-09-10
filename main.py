@@ -1,5 +1,7 @@
 def calculate_sum(a,b):
     return a+b
+def substract_sum(a,b):
+    return abs(a-b)
 
 
 if __name__ == '__main__':
